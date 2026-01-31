@@ -74,3 +74,15 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/Titanic_Project.git
+
+
+Project Structure
+Titanic_Project/
+├── visualization.ipynb     # EDA and visualization
+├── Modeling.ipynb          # ML modeling and evaluation
+├── README.md
+└── .gitattributes
+Author
+
+Ahmad Ali
+GitHub: https://github.com/AhmadAlee10
